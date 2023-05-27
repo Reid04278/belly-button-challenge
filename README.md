@@ -1,6 +1,6 @@
 Module 14 Challenge
 
-Link for App im Gitub Pages
+Link for App in Gitub Pages
 https://reid04278.github.io/belly-button-challenge/
 
 
